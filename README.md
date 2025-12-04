@@ -5,7 +5,7 @@ PlaiCraft Project
 
 
 High-level question: (Probably) Q2 (predicting high playtime)
-    -> Current Interest: Predicting playtime from age and gender
+    -> Current Interest: Predicting playtime from age and player experience
         -> Probably a linear regression(?)
 
 
